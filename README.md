@@ -39,9 +39,9 @@ Share the eddited picture with your friends and famly members to ask their feedb
 
 ### Future Work
 
-The project can be scaled up so that more paths can be saved. Currently only 2 paths are being saved and are being switched between using the on screen buttons.
+The project can be scaled up so that more furniture could be saved withing the database. Currently only 1 piece of furniture is saved on the menu.
 
-Once multiple paths are stored, they can be integrated into a search like interface so that the user can choose which destination is to be reached.
+Once multiple furniture is stored, it could be compared to many stores selling some simmilar piece of furiture. This could be for price, color, size, conveniece and more.
 
 Other user interface and user experience improvements can be implemented to make the app easier and more pleasing to use.
 
