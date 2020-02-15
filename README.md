@@ -49,4 +49,9 @@ Once multiple furniture is stored, it could be compared to many stores selling s
 
 Other user interface and user experience improvements can be implemented to make the app easier and more pleasing to use.
 
+## Built with 
 
+* Unity - Cross-platform real-time game engine developed by Unity Technologies
+* ARCore - A software development kit developed by Google that allows for augmented reality applications to be built
+* Microsoft Visual Studio - Integrated development environment for C# from Microsoft
+* Visual Studio Code - An open source code editor developed by Microsoft
