@@ -12,6 +12,10 @@ Might need to install Android Studio with the Android SDK and JDK for exporting 
 
 For exporting an app to iOS, Xcode (11.3 or above) must be installed on a Mac running macOS 10.14 Mojave or later. An Apple Developer account is required for signing the application.
 
+
+## Developement
+The walls are made using 3d plane objects. The interaction between user and interface is made using the C# Scripting language. The Buttons and bottom menu is made with the UI Components found in the designing section in Unity.
+
 ## Application
 
 ### Creating the virtual environment
