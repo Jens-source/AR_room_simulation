@@ -28,6 +28,21 @@ Share the eddited picture with your friends and famly members to ask their feedb
 
 <img src="Resources/Chair.gif" >
 
+## Status of the Project
 
+### What Works
+
+* Detection of real world planes using ARCore
+* Placement of furniture within the room environment
+* Storing of images to be used at a later time
+* User could manually resize wall planes 
+
+### Future Work
+
+The project can be scaled up so that more paths can be saved. Currently only 2 paths are being saved and are being switched between using the on screen buttons.
+
+Once multiple paths are stored, they can be integrated into a search like interface so that the user can choose which destination is to be reached.
+
+Other user interface and user experience improvements can be implemented to make the app easier and more pleasing to use.
 
 
